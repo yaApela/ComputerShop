@@ -1,0 +1,5 @@
+﻿  DanekShop.cpp
+C:\Users\kikip\source\repos\DanekShop\DanekShop\DanekShop.cpp(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\kikip\source\repos\DanekShop\DanekShop\DanekShop.cpp(61): warning C4715: SelectMethod: значение возвращается не при всех путях выполнения
+C:\Users\kikip\source\repos\DanekShop\DanekShop\DanekShop.cpp(249): warning C4715: CalculateDataForAnalysis: значение возвращается не при всех путях выполнения
+  DanekShop.vcxproj -> C:\Users\kikip\source\repos\DanekShop\Debug\DanekShop.exe
